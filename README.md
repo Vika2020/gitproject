@@ -158,4 +158,3 @@ You can find the full instruction and video [here](https://www.jetbrains.com/hel
 * [CS50 - Git and GitHub (video)](https://youtu.be/eulnSXkhE7I)
 * [git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
-Making changes
